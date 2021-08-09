@@ -1,0 +1,11 @@
+Ellen Ripley,Aliens
+Jack Sparrow,Pirates of the Caribbean
+Han Solo,Star Wars
+Gandalf,Lord of the Rings
+John McClane,Die Hard
+Neo,Matrix
+Maximus,Gladiator
+Snake Plissken,Escape from New York
+Dorothy Gale,The Wizard of Oz
+Inigo Montoya,The Princess Bride
+Sarah Connor,Terminator
